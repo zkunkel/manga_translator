@@ -12,8 +12,8 @@ Uses:
 
 ### Example before after:
 
-<img width="300" src="https://github.com/user-attachments/assets/aeb8f541-0365-4924-bd5f-1f5665bcaebb">
-<img width="300" src="https://github.com/user-attachments/assets/d1f6f45e-f9bc-4239-b922-a3fd00be3e6e">
+<img width="400" src="https://github.com/user-attachments/assets/aeb8f541-0365-4924-bd5f-1f5665bcaebb">
+<img width="400" src="https://github.com/user-attachments/assets/d1f6f45e-f9bc-4239-b922-a3fd00be3e6e">
 
 
 
